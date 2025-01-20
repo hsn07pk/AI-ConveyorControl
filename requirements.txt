@@ -1,0 +1,5 @@
+flask
+simpy
+transformers
+requests
+onnxruntime
